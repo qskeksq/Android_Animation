@@ -4,6 +4,9 @@
   3. 액티비티 애니메이션
   4. 프래그먼트 애니메이션
   5. 어댑터뷰 애니메이션
+  
+![](https://github.com/qskeksq/Animation/blob/master/pic/sunset.gif)
+![](https://github.com/qskeksq/Animation/blob/master/pic/windmill.gif)
 
 ## 1. Animation
 
