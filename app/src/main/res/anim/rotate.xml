@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rotate
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromDegrees="0"
+    android:toDegrees="720"
+    android:pivotX="50%"
+    android:pivotY="50%"
+    android:fillAfter="true"
+    android:duration="3000">
+
+</rotate>
+
+    <!-- pivot 은 회전축을 바꿔준다. -->

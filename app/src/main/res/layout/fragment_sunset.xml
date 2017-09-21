@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:id="@+id/sky"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/blue_sky">
+        <View
+            android:id="@+id/hae"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center"
+            android:background="@drawable/sun"/>
+    </FrameLayout>
+
+    <View
+        android:id="@+id/bada"
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:background="@color/sea">
+    </View>
+
+</LinearLayout>
